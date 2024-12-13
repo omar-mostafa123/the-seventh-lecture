@@ -1,1 +1,1 @@
-# the-seventh
+# the-seventh-lecture
